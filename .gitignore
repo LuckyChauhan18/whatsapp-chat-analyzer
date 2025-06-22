@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual Environment
+.venv/
+env/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Qodana files (for JetBrains code analysis)
+qodana.sarif
+qodana/
+
+# System files
+.DS_Store
+Thumbs.db
